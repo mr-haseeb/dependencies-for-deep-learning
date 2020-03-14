@@ -1,1 +1,3 @@
-# requirements.txt_for_deep_learning
+# dependencies for deep learning
+ ## 1.Tensorflow-CPU
+   ### requirements.txt
