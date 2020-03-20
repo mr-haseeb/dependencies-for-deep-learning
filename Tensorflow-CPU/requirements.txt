@@ -54,3 +54,4 @@ matplotlib
 keras
 labelImg
 seaborn
+Pillow
